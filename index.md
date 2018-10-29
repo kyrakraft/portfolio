@@ -9,7 +9,7 @@
 
 ### art
 preview:
-![Ashley Dandelion](ashleydandelion.jpg)
+![Ashley Dandelion](ashleydandelion.jpg =100x100)
 click [here](artpage.md) to view all art.  
 
 ### 3d music visualizations
@@ -21,7 +21,3 @@ click [here](3dmusic.md) for details.
 
 Here is a sample link:
 [Marlborough School](http://marlborough.org)
-
-## section 2
-
-[Page two](page_two.md)
