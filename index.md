@@ -1,12 +1,18 @@
-# This is my awesome title
+# kyra kraft's digital portfolio: art and coding
 
-## section 1
+## examples of types of past projects
 
-Stuff I like:
+* generative design combined with hand-drawn art
+* 3d interactive experience with sound and visuals
+* sites designed with html, css, and javascript that incorporate databases
+* mobile apps designed through React
 
-* art
-* math
-* computers
+### art
+<!-- [art page]() -->
+
+### 3d music visualizations
+
+
 
 Here is a sample link:
 [Marlborough School](http://marlborough.org)
