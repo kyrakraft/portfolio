@@ -9,7 +9,8 @@
 
 ### art
 preview:
-![Ashley Dandelion](ashleydandelion.jpg =100x100)
+<!-- ![Ashley Dandelion](ashleydandelion.jpg) -->
+<img src="ashleydandelion.jpg" alt="dandelion drawing" width="100" height="100"/>
 click [here](artpage.md) to view all art.  
 
 ### 3d music visualizations
