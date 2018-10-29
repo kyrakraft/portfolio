@@ -1,7 +1,7 @@
-# art
+# 3d music visualizations
 
 ![Home](index.md)
 
-### dandelion
+### Dandelion
 
 ![Ashley Dandelion](ashleydandelion.jpg)

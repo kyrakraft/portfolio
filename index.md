@@ -14,7 +14,10 @@ click to view all art:
 [art](artpage.md)
 
 ### 3d music visualizations
-
+preview:
+[Ashley Dandelion](ashleydandelion.jpg)
+click to view all art:
+[art](artpage.md)
 
 
 Here is a sample link:
