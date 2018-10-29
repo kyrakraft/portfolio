@@ -1,6 +1,6 @@
-# kyra kraft's digital portfolio: art and coding
+# kyra kraft's digital portfolio
 
-## examples of types of past projects
+## examples of past projects
 
 * generative design combined with hand-drawn art
 * 3d interactive experience with sound and visuals
@@ -8,7 +8,10 @@
 * mobile apps designed through React
 
 ### art
-<!-- [art page]() -->
+preview:
+[Ashley Dandelion](ashleydandelion.jpg)
+click to view all art:
+[art](artpage.md)
 
 ### 3d music visualizations
 
