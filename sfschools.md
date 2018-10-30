@@ -11,8 +11,11 @@ We designed a web application that allows families to answer a series of relevan
 
 <img src="sfschools.png" alt="SF School Finder" width="60%" height="60%"/>
 
+
+<img src="commuteq.png" alt="SF School Finder" width="60%" height="60%"/>
+
 This [link](https://github.com/thaisgm/teamWolverines) will take you to a page where you can download the full project.
 
 ## More Details
 This project uses node and incorporates the database MongoDB.
-The algorithm gives schools " inherent scores" in different categories and multiplies the inherent scores in each of these categories by a "percentage score" in each category. These percentages are determined by how closely the a particular factor (such as "commute" or "academic performance") matches with the user's specific needs. In other words, the "inherent score" is independent of the user, whereas the "percentage score" is based on how well the user matches with the school. Each category's inherent score is multiplied by its percentage score. Then, a all of these categories are added up, and the school receives a "final score."
+The algorithm gives schools "inherent scores" in different categories and multiplies the inherent scores in each of these categories by a corresponding "percentage score." These percentages are determined by how closely a particular factor (such as "commute" or "academic performance") matches with the user's specific needs. In other words, the "inherent score" is independent of the user, whereas the "percentage score" is based on how well the user matches with the school. Each category's inherent score is multiplied by its percentage score. Then, all of these categories are added up, and the school receives a "final score."
