@@ -1,4 +1,4 @@
-# Kyra Kraft Art and Programming Projects
+# Kyra Kraft Art & Programming Projects
 
 <!-- ## examples of past projects
 
@@ -10,9 +10,9 @@
 ### Art with Generative Design
 
 <img src="ashleydandelion.jpg" alt="Dandelion Drawing" width="300" height="370"/>  
-click [here](artpage.md) to view all art.  
+Click [here](artpage.md) to view all art.  
 
 ### 3D Interactive Music Visualizations
 
-<img src="purpleworld.png" alt="3d graphics" width="200" height="150"/>  
-click [here](3dmusic.md) for project details.  
+<img src="purpleworld.png" alt="3d graphics" width="320" height="240"/>  
+Click [here](3dmusic.md) for project details.  

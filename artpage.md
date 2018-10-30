@@ -6,4 +6,6 @@ These pieces are a combination of hand-drawn sketches, Processing programs, a Wa
 
 ### "Morning" series:
 
+
+### Additional pieces:
 ![Ashley Dandelion](ashleydandelion.jpg)
