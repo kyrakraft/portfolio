@@ -3,7 +3,7 @@
 [Home](index.md)
 
 ## Project Description
-I created this with four friends at a hackathon; my responsibility was to code the backend as well as develop and program the algorithm that our application performs (which involves a weighted sort).
+I created this web application, written in Javascript, with four friends at a hackathon; my responsibility was to code the backend as well as develop and program the algorithm that our application performs (which involves a weighted sort).
 
 The goal of the hackathon, which took place in San Fransisco, was to solve a social issue that San Francisco faces. My group and I decided to tackle the issue of the socioeconomic disparity in public schools. There is a form families can complete on which they indicate their preference of schools. However, as we learned, information about these schools and their programs is often difficult to find. As a result, researching the schools can take several hours and is a frustrating process.
 
