@@ -21,7 +21,7 @@ Click [here](3dmusic.md) for project details.
 
 
 
-### San Francisco Public School Finder (Web Application)
+### Public School Finder (Web Application)
 
 <img src="sfschools.png" alt="screenshot" width="55%" height="55%"/>  
 Click [here](sfschools.md) for project details.
