@@ -8,15 +8,15 @@
 * mobile apps designed through React -->
 
 ### art
-preview:
+
 <!-- ![Ashley Dandelion](ashleydandelion.jpg) -->
-<img src="ashleydandelion.jpg" alt="dandelion drawing" width="100" height="100"/>
+<img src="ashleydandelion.jpg" alt="dandelion drawing" width="300" height="370"/>  
 click [here](artpage.md) to view all art.  
 
 ### 3d music visualizations
 preview:
-![Ashley Dandelion](ashleydandelion.jpg)
-click [here](3dmusic.md) for details.  
+<img src="purpleworld.png" alt="3d graphics" width="300" height="370"/>  
+click [here](3dmusic.md) for project details.  
 
 
 
