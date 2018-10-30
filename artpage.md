@@ -1,6 +1,6 @@
 # Art
 
-![Home](index.md)
+[Home](index.md)
 
 These pieces are a combination of hand-drawn sketches, Processing programs, a Wacom tablet, and Photoshop.
 

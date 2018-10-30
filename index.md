@@ -9,11 +9,10 @@
 
 ### Art with Generative Design
 
-<!-- ![Ashley Dandelion](ashleydandelion.jpg) -->
 <img src="ashleydandelion.jpg" alt="Dandelion Drawing" width="300" height="370"/>  
 click [here](artpage.md) to view all art.  
 
 ### 3D Interactive Music Visualizations
 
-<img src="purpleworld.png" alt="3d graphics" width="600" height="350"/>  
+<img src="purpleworld.png" alt="3d graphics" width="200" height="150"/>  
 click [here](3dmusic.md) for project details.  
