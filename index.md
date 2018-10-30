@@ -1,4 +1,4 @@
-# kyra kraft digital portfolio
+# Kyra Kraft Art and Programming Projects
 
 <!-- ## examples of past projects
 
@@ -7,18 +7,13 @@
 * sites designed with html, css, and javascript that incorporate databases
 * mobile apps designed through React -->
 
-### art
+### Art with Generative Design
 
 <!-- ![Ashley Dandelion](ashleydandelion.jpg) -->
-<img src="ashleydandelion.jpg" alt="dandelion drawing" width="300" height="370"/>  
+<img src="ashleydandelion.jpg" alt="Dandelion Drawing" width="300" height="370"/>  
 click [here](artpage.md) to view all art.  
 
-### 3d music visualizations
-preview:
-<img src="purpleworld.png" alt="3d graphics" width="300" height="370"/>  
+### 3D Interactive Music Visualizations
+
+<img src="purpleworld.png" alt="3d graphics" width="600" height="350"/>  
 click [here](3dmusic.md) for project details.  
-
-
-
-Here is a sample link:
-[Marlborough School](http://marlborough.org)
