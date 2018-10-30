@@ -1,4 +1,5 @@
-# Kyra Kraft Art & Programming Projects
+# Art & Programming Projects
+## created by Kyra Kraft
 
 <!-- ## examples of past projects
 
