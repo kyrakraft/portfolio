@@ -5,7 +5,7 @@
 These pieces are a combination of hand-drawn sketches, Processing programs, a Wacom tablet, and Photoshop.
 
 ### "Morning" series:
-<img src="ashleydandelion.jpg" alt="Dandelion at Night" width=50%/>  
+<img src="ashleydandelion.jpg" alt="Dandelion at Night" width="20%" height="20%"/>  
 ![Rise and Shine](riseandshine2.jpg) ![Splash](rhisplash.jpg) ![Earring](earring.jpg) ![Contact](placingcontactsketch2.jpg) ![Quick Look](a quick look.jpg) ![Hair Up](rhi ponytail.jpg) ![Lacing Up](rhishoewhite2.jpg) ![Breakfast](eatingcheerios.jpg)
 
 
