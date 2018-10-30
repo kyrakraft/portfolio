@@ -9,7 +9,7 @@
 * sites designed with html, css, and javascript that incorporate databases
 * mobile apps designed through React -->
 
-### Art with Generative Design
+### Art (includes hand-drawn & digitally generated)
 
 <img src="ashleydandelion.jpg" alt="drawing" width="300" height="370"/>  
 Click [here](artpage.md) to view all art.  
