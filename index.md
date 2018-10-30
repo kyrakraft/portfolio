@@ -9,7 +9,7 @@
 
 ### Art with Generative Design
 
-<img src="ashleydandelion.jpg" alt="Dandelion Drawing" width="300" height="370"/>  
+<img src="ashleydandelion.jpg" alt="Dandelion at Night" width="300" height="370"/>  
 Click [here](artpage.md) to view all art.  
 
 ### 3D Interactive Music Visualizations

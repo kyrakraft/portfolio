@@ -8,10 +8,11 @@ I programmed this 3D interactive experience in Java. The graphics correspond to 
 ### Screenshots of each world:
 
 <img src="darkworld.png" alt="3d graphics" width="320" height="240"/>
+
 <img src="greenworld.png" alt="3d graphics" width="320" height="240"/>  
 
-
 <img src="purpleworld.png" alt="3d graphics" width="320" height="240"/>
+
 <img src="pinkworld.png" alt="3d graphics" width="320" height="240"/>
 
 
