@@ -35,25 +35,29 @@ Breakfast
 Snow Outside
 
 <img src="ashleydandelion.jpg" alt="Dandelion at Night" width="60%" height="60%"/>
-Dandelion at Night
+Light Breeze
 
 <img src="a moment of relaxation.jpg" alt="A Moment of Relaxation" width="60%" height="60%"/>
 A Moment of Relaxation
 
+<img src="space fish.jpg" alt="Space Fish" width="60%" height="60%"/>
+Space Fish
+
 <img src="dancer4.jpg" alt="Dancer" width="60%" height="60%"/>
 Dancer
 
-<img src="cuba.jpg" alt="Old Car in Cuba" width="60%" height="60%"/>
-Old Car in Cuba
+<img src="dandelions at night.jpg" alt="Dandelion at Night" width="60%" height="60%"/>
+Dandelions at Night
 
 <img src="cuba cat.jpg" alt="Cat in Cuba" width="60%" height="60%"/>
-Cat in Cuba
+Stray Cat
 
 <img src="midnight gathering june and december.jpg" alt="Midnight Gathering" width="60%" height="60%"/>
 Midnight Gathering
 
-<img src="space fish.jpg" alt="Space Fish" width="60%" height="60%"/>
-Space Fish
+
+<img src="cuba.jpg" alt="Old Car in Cuba" width="60%" height="60%"/>
+Old Car in Cuba
 
 <img src="pipe2.jpg" alt="Pipe" width="60%" height="60%"/>
 Pipe
