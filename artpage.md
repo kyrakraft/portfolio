@@ -52,5 +52,8 @@ Cat in Cuba
 <img src="midnight gathering june and december.jpg" alt="Midnight Gathering" width="60%" height="60%"/>
 Midnight Gathering
 
+<img src="space fish.jpg" alt="Space Fish" width="60%" height="60%"/>
+Space Fish
+
 <img src="pipe2.jpg" alt="Pipe" width="60%" height="60%"/>
 Pipe
