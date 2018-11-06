@@ -47,7 +47,7 @@ Space Fish
 Dancer
 
 <img src="dandelions at night.jpg" alt="Dandelion at Night" width="60%" height="60%"/>
-Dandelions at Night
+Giant Dandelions at Night
 
 <img src="cuba cat.jpg" alt="Cat in Cuba" width="60%" height="60%"/>
 Stray Cat
