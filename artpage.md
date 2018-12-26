@@ -8,13 +8,12 @@ These pieces are a combination of hand-drawn sketches, Processing programs, a Wa
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
 Rise and Shine
 
-[View series](index.md)
+[View series](morning.md)
 
 ### "On the Road" series:
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
-Rise and Shine
 
-[View "Morning" series] (morning.md)
+[View series](morning.md)
 
 
 
