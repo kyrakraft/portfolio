@@ -4,14 +4,17 @@
 
 These pieces are a combination of hand-drawn sketches, Processing programs, a Wacom tablet, and Photoshop.
 
-
-
 ### "Morning" series:
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
 Rise and Shine
 
-[View "Morning" series] (morning.md)
+[View series](index.md)
 
+### "On the Road" series:
+<img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
+Rise and Shine
+
+[View "Morning" series] (morning.md)
 
 
 
