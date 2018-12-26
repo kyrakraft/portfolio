@@ -6,14 +6,14 @@ These pieces are a combination of hand-drawn sketches, Processing programs, a Wa
 
 ### "Morning" series:
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
-Rise and Shine
 
 [View series](morning.md)
+
 
 ### "On the Road" series:
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
 
-[View series](morning.md)
+[View series](car.md)
 
 
 

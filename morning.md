@@ -2,7 +2,7 @@
 # "Morning" Series
 [Home](index.md)
 
-
+<br/>
 [Back to all art](artpage.md)
 
 
