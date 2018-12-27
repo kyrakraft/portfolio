@@ -24,7 +24,7 @@ These pieces are a combination of hand-drawn sketches, Processing programs, a Wa
 A Moment of Relaxation
 
 <img src="portraitcolor2.jpg" alt="Snow Outside" width="60%" height="60%"/>
-Cold State
+Cold Stare
 
 <img src="ashleydandelion.jpg" alt="Dandelion at Night" width="60%" height="60%"/>
 Light Breeze
