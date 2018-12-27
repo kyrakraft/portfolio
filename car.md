@@ -1,10 +1,12 @@
+[Home](index.md)
 
 # "On the Road" Series
-[Home](index.md)
 
 <br/>
 [Back to all art](artpage.md)
 
+<br/>
+<br/>
 
 <img src="Winding Road.jpg" alt="Winding Road" width="60%" height="60%"/>
 Winding Road

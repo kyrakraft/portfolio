@@ -1,6 +1,8 @@
-# 3D Music Visualizations
-
 [Home](index.md)
+
+# 3D Music Visualizations
+<br/>
+<br/>
 
 ## Project Description:
 I programmed this 3D interactive experience in Java. The graphics correspond to classical piano, which I recorded a friend playing, in the background. The user uses the keyboard to navigate and can move through - as well as switch between - 4 different 'worlds,' each containing a different classical piece.
