@@ -6,7 +6,7 @@
 [Back to all art](artpage.md)
 
 <br/>
-<br/>
+
 
 <img src="riseandshine2.jpg" alt="Rise and Shine" width="60%" height="60%"/>
 Rise and Shine

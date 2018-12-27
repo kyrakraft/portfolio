@@ -2,7 +2,7 @@
 
 # San Fransisco Public School Finder Web Application
 <br/>
-<br/>
+
 
 ## Project Description
 I created this web application, written in Javascript, with four friends at a hackathon in San Francisco; my responsibility was to code the backend as well as develop and program the algorithm that our application performs (which involves a weighted sort).
