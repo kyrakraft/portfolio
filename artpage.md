@@ -20,6 +20,9 @@ These pieces are a combination of hand-drawn sketches, Processing programs, a Wa
 
 ### Additional pieces:
 
+<img src="Rhiannon in Five Years.jpg" alt="Rhiannon in Five Years" width="60%" height="60%"/>
+Rhiannon in Five Years
+
 <img src="a moment of relaxation.jpg" alt="A Moment of Relaxation" width="60%" height="60%"/>
 A Moment of Relaxation
 

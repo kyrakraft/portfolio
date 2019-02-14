@@ -11,7 +11,7 @@
 
 ### Art (includes hand-drawn & digitally generated)
 
-<img src="ashleydandelion.jpg" alt="drawing" width="300" height="370"/>  
+<img src="Rhiannon in Five Years.jpg" alt="drawing" width="300" height="370"/>  
 Click [here](artpage.md) to view all art.  
 
 
