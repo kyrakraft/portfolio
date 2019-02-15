@@ -45,7 +45,7 @@ Dancer's Dream
 Space Fish
 
 <img src="barnstorming chickens.jpg" alt="Barnstorming Chickens" width="60%" height="60%"/>
-Barnstorming Chickens (photography)
+Barnstorming Chickens
 
 <img src="maggie on mulholland.jpg" alt="Maggie on Mulholland" width="60%" height="60%"/>
 Maggie on Mulholland
