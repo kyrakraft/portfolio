@@ -35,6 +35,9 @@ Cold Stare
 <img src="ashleydandelion.jpg" alt="Dandelion at Night" width="60%" height="60%"/>
 Light Breeze
 
+<img src="Abby in Cape Cod.jpg" alt="Abby in a Dark Room" width="60%" height="60%"/>
+Abby in a Dark Room
+
 <img src="dancer4.jpg" alt="Dancer" width="60%" height="60%"/>
 Dancer's Dream
 
