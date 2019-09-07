@@ -31,3 +31,9 @@ Lacing Up
 
 <img src="eatingcheerios.jpg" alt="Breakfast" width="60%" height="60%"/>
 Breakfast
+
+<img src="hi res 11 Packing.jpg" alt="Breakfast" width="60%" height="60%"/>
+Packing
+
+<img src="hi res 12 Out the Door.jpg" alt="Breakfast" width="60%" height="60%"/>
+Out the Door
